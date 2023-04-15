@@ -6,9 +6,3 @@
 celsius = eval(input("Enter a Celsius value: "))
 fah = (9 / 5) * celsius + 32
 print(celsius, "Celsuis is", fah, "Fahrenheit")
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
